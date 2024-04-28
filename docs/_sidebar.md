@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [🏠Home](/)
-* [📘Blog](/blog/README.md)
-* [🔧Awesome Tools](/awesome-tools/README.md)
+* [📘Blog](/blog/home.md)
+* [🔧Awesome Tools](/awesome-tools/home.md)

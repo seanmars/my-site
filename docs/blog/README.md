@@ -1,3 +1,0 @@
-# BLOG
-
-> An awesome project.

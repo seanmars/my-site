@@ -1,5 +1,4 @@
-<!-- docs/_navbar.md -->
+# HOME
 
-* [🏠Home](/)
 * [📘Blog](/blog/home.md)
 * [🔧Awesome Tools](/awesome-tools/home.md)
